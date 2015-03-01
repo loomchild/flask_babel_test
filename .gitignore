@@ -1,5 +1,3 @@
 *.pyc
 .*.sw?
 venv/
-*.pot
-translations/
