@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 from flask import Flask, request
-from flask.ext.babel import Babel, gettext
+from flask_babel import Babel, gettext
 
 app = Flask(__name__)
 babel = Babel(app)
